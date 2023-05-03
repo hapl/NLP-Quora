@@ -1,4 +1,4 @@
-# mini-project-V
+# Natural Language mini project
 
 The repo with instructions for Mini Project V
 
